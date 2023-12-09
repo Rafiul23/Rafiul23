@@ -2,7 +2,7 @@
 
 ### Hi there!, I am Md. Rafiul Islam
 #### I am a front end web developer.
-![I am a front end web developer.]
+
 
 Hello! I am a front end web developer. I have learned HTML, CSS, javascript, Tailwind css with Daisyui, and React. Currently, I am learning back end development. In future,  I want to be a MERN stack web developer.
 
