@@ -47,6 +47,15 @@ Hello! I am a front end web developer. I have learned HTML, CSS, javascript, Tai
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafiul23&theme=default&utcOffset=8)
 
+### Project Name: Aesthetica (A makeup brand website)
+link: https://6533e1ead9bdce30108c9785--glittering-dragon-4a6433.netlify.app/  <br>
+<p>
+Project details: This project is about makeup brand website. There are several brands of makeup products. Each brand has at least four products. A user can add a product, can update a product's details, and can delete a product. He can add product to his cart collections. He can also delete his products from his cart collection. </p>
+
+<p>
+  Used language: React, Tailwind, Mongodb, Express, Daisyui, Node.
+</p>
+
 
 
 
