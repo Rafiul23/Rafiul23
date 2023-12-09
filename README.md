@@ -51,34 +51,9 @@ Hello! I am a front end web developer. I have learned HTML, CSS, javascript, Tai
 </p>
 
 
-### Pinned Projects
 
-- **Project Name: Aesthetica (A makeup brand website)** <br/> 
-link: https://6533e1ead9bdce30108c9785--glittering-dragon-4a6433.netlify.app/  <br>
-<p>
-Project details: This project is about makeup brand website. There are several brands of makeup products. Each brand has at least four products. A user can add a product, can update a product's details, and can delete a product. He can add product to his cart collections. He can also delete his products from his cart collection. </p>
 
-<p>
- <strong>  <em> Used language: React, Tailwind, Mongodb, Express, Daisyui </em></strong>
-</p>
 
-- **Project Name: Job Hut (A job market website)** <br/>
-link: https://dapper-centaur-413cf9.netlify.app/  <br>
-<p>
-Project details: This project is about job market website. There are several number of jobs in the website. A candidate can search a job, and can apply in a job.He can post a job, can update a job data, and also can delete a job. </p>
-
-<p>
-<strong>  <em> Used language: React, Tailwind, Mongodb, Express, Daisyui </em></strong>
-</p>
-
-- **Project Name: Neuro Lab (A diagnostic center management website)** <br/>
-link: https://musical-biscotti-6995f8.netlify.app/  <br>
-<p>
-Project details: This project is about diagnostic center management website. There are several number of tests. A patient can book a test and can pay his charge by stripe payment system. A coupon code can be applied to get a discount. In this website, an admin can post a test, can update a test data and also can delete a test. He can also delete a user, can block a user and also can activate a user.  </p>
-
-<p>
-<strong>  <em> Used language: React, Tailwind, Mongodb, Express, Daisyui </em></strong>
-</p>
 
 
 
