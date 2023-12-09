@@ -39,13 +39,16 @@ Hello! I am a front end web developer. I have learned HTML, CSS, javascript, Tai
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafiul23&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafiul23&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafiul23&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafiul23&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafiul23&theme=default&utcOffset=8)
+<p>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafiul23&theme=default' width='350' height='350' >
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafiul23&theme=default' width='350' height='350' >
+  
+</p>
+<p>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafiul23&theme=default' width='350' height='350' >
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafiul23&theme=default&utcOffset=8' width='350' height='350' >
+  
+</p>
 
 
 ### Pinned Projects
