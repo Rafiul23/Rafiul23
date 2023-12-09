@@ -4,7 +4,19 @@
 
 Hello! I am a front end web developer. I have learned HTML, CSS, javascript, Tailwind css with Daisyui, and React. Currently, I am learning back end development. In future,  I want to be a MERN stack web developer.
 
-Skills: HTML, CSS, Javascript, Tailwind css, Daisyui, React, Express, Mongodb
+Skills: <br>
+<div style='width: 40%;'>
+  <img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png' width='100' height='100'  >
+<img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png' width='100' height='100'  >
+<img src='https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png' width='100' height='100'  >
+<img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png' width='150' height='100'  >
+<img src='https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo-512x512.png' width='100' height='100'  >
+<img src='https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png' width='100' height='100'  >
+<img src='https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png' width='150' height='100'  >
+<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png' width='100' height='100'  >
+<img src='https://logos-world.net/wp-content/uploads/2023/06/Express-clothing-retailer-Logo.png' width='100' height='100'  >
+
+</div>
 
 - 🌱 I’m currently learning back end development 
 - 👯 I’m looking to collaborate on front end technologies. 
