@@ -6,7 +6,7 @@
 
 Hello! I am a front end web developer. I have learned HTML, CSS, javascript, Tailwind css with Daisyui, and React. Currently, I am learning back end development. In future,  I want to be a MERN stack web developer.
 
-Skills: <br>
+### Skills: <br>
 <div style='width: 40%;'>
   <img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png' width='100' height='100'  >
 <img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png' width='100' height='100'  >
